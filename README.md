@@ -1,2 +1,2 @@
 # NYCU-UNIX-Programming
-This is to summarize the homework of unix programming course.  
+This the summarize of unix program course homework.  
