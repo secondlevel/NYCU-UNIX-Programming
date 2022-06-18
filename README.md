@@ -1,5 +1,5 @@
 # NYCU-UNIX-Programming
-This the summarize of unix program course homework.  
+This is the summarize of unix program course homework.  
 
 ### Course Topic
 - #### Course Syllabus
