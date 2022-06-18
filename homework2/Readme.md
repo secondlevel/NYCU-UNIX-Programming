@@ -20,20 +20,20 @@ If an invalid argument is passed to the logger, the above message should be disp
 
 The list of monitored library calls is shown below. It covers several functions we have introduced in the class.  
 
-**1. chmod** 
-**2. chown** 
-**3. close** 
-**4. creat** 
-**5. fclose** 
-**6. fopen** 
-**7. fread** 
-**8. fwrite** 
-**9. open** 
-**10. read** 
-**11. remove** 
-**12. rename** 
-**13. tmpfile** 
-**14. write**
+**1. chmod**   
+**2. chown**   
+**3. close**   
+**4. creat**   
+**5. fclose**   
+**6. fopen**   
+**7. fread**   
+**8. fwrite**   
+**9. open**   
+**10. read**   
+**11. remove**   
+**12. rename**   
+**13. tmpfile**   
+**14. write**  
 
 #### Output
 
