@@ -103,12 +103,12 @@ The detailed spec of this homework is introduced as follows. Your program has to
   ```
   - Append  (Permission denied) if the access to /proc/pid/fd or /proc/pid/(cwd|root|exe) is failed due to permission denied.
   - If the filename you read from /proc file system contains a  (deleted), please remove it from the filename before you print it out.
-## Additional Notes on REGEX
+### Additional Notes on REGEX
 If you plan to test REGEX feature with the lsof package that comes with Linux distributions, you should run it with the option -c /REGEX/.  
 
 For students who programming with C++, consider working with regex_search() instead of regex_match(). Please work with regcomp() and regexec() for students who are programming with C to implement this feature.
   
-## More Outputs
+### More Outputs
 Your program has to order the output lines by performing a numeric sort against process ID (PIDs). We will test your program with and without root permission. If an operation does not have sufficient permission to perform, you have to print out Permission denied message.
 
 #### Run the command without root permission
